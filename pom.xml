@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hw01-maven</module>
+        <module>hw02-collections</module>
     </modules>
 
     <packaging>pom</packaging>
