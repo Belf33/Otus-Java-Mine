@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hw01-maven/HW1.iml" filepath="$PROJECT_DIR$/hw01-maven/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Otus-Java-Mine.iml" filepath="$PROJECT_DIR$/.idea/Otus-Java-Mine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw02-collections/hw02-collections.iml" filepath="$PROJECT_DIR$/hw02-collections/hw02-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw03-gc/hw03gc.iml" filepath="$PROJECT_DIR$/hw03-gc/hw03gc.iml" />
+    </modules>
+  </component>
+</project>
